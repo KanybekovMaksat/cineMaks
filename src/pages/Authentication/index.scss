@@ -1,0 +1,68 @@
+.Auth{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.Auth__form{
+    position: relative;
+    height: 320px;
+    width: 550px;
+    padding: 40px;
+    background-color: white;
+    border-radius: 20px;
+
+    display: flex;
+    flex-direction: column;
+}
+.Auth__form-controller{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    position: relative;
+}
+h1{
+    text-align: center;
+}
+label,.Auth__form-error{
+    color: #E21221;
+}
+.Auth__form-input{
+    margin: 5px 0px;
+    padding: 8px 25px;
+}
+.SignUp__box{
+    display: flex;
+    flex-direction: column;
+}
+.Auth__form-button{
+    cursor: pointer;
+    font-size: 22px;
+    font-weight: 700;
+}
+.Auth__form-block{
+    cursor: pointer;
+    width: 100px;
+    height: 4px;
+    border-radius: 9px;
+    background-color: #E21221;
+    position: absolute;
+    bottom: -3px;
+    left: 14%;
+    transition: all 0.3s ease-in-out;
+}
+.Auth__form-block-active{
+    cursor: pointer;
+    width: 100px;
+    height: 4px;
+    border-radius: 9px;
+    background-color: #E21221;
+    position: absolute;
+    bottom: -3px;
+    left: 64%;
+    transition: all 0.3s ease-in-out;
+}
+.Auth__form-link{
+    margin-top: 30px;
+    text-align: center;
+}

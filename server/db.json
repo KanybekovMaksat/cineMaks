@@ -1,0 +1,2565 @@
+{
+    "genres": [
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 16,
+        "name": "Animation"
+      },
+      {
+        "id": 35,
+        "name": "Comedy"
+      },
+      {
+        "id": 80,
+        "name": "Crime"
+      },
+      {
+        "id": 99,
+        "name": "Documentary"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10751,
+        "name": "Family"
+      },
+      {
+        "id": 14,
+        "name": "Fantasy"
+      },
+      {
+        "id": 36,
+        "name": "History"
+      },
+      {
+        "id": 27,
+        "name": "Horror"
+      },
+      {
+        "id": 9648,
+        "name": "Mystery"
+      },
+      {
+        "id": 53,
+        "name": "Thriller"
+      }
+    ],
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/8YFL5QQVPy3AgrEQxNYVSgiPEbe.jpg",
+      "genre_ids": [
+        12,
+        878,
+        35
+      ],
+      "id": 640146,
+      "original_language": "en",
+      "original_title": "Ant-Man and the Wasp: Quantumania",
+      "overview": "Super-Hero partners Scott Lang and Hope van Dyne, along with with Hope's parents Janet van Dyne and Hank Pym, and Scott's daughter Cassie Lang, find themselves exploring the Quantum Realm, interacting with strange new creatures and embarking on an adventure that will push them beyond the limits of what they thought possible.",
+      "popularity": 1577.158,
+      "poster_path": "/ngl2FKBlU4fhbdsrtdom9LVLBXw.jpg",
+      "release_date": "2023-02-10",
+      "title": "Ant-Man and the Wasp: Quantumania",
+      "video": false,
+      "vote_average": 6.5,
+      "vote_count": 710
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/otOtC45BDzFW7nuxnWHMmnYsicK.jpg",
+      "genre_ids": [
+        878,
+        27,
+        35
+      ],
+      "id": 536554,
+      "original_language": "en",
+      "original_title": "M3GAN",
+      "overview": "A brilliant toy company roboticist uses artificial intelligence to develop M3GAN, a life-like doll programmed to emotionally bond with her newly orphaned niece. But when the doll's programming works too well, she becomes overprotective of her new friend with terrifying results.",
+      "popularity": 1519.974,
+      "poster_path": "/d9nBoowhjiiYc4FBNtQkPY7c11H.jpg",
+      "release_date": "2022-12-28",
+      "title": "M3GAN",
+      "video": false,
+      "vote_average": 7.5,
+      "vote_count": 1774
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/s16H6tpK2utvwDtzZ8Qy4qm5Emw.jpg",
+      "genre_ids": [
+        878,
+        12,
+        28
+      ],
+      "id": 76600,
+      "original_language": "en",
+      "original_title": "Avatar: The Way of Water",
+      "overview": "Set more than a decade after the events of the first film, learn the story of the Sully family (Jake, Neytiri, and their kids), the trouble that follows them, the lengths they go to keep each other safe, the battles they fight to stay alive, and the tragedies they endure.",
+      "popularity": 1287.023,
+      "poster_path": "/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
+      "release_date": "2022-12-14",
+      "title": "Avatar: The Way of Water",
+      "video": false,
+      "vote_average": 7.7,
+      "vote_count": 5462
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/cL0cdccOMzM508ODsWPfHVMMAzo.jpg",
+      "genre_ids": [
+        28
+      ],
+      "id": 267805,
+      "original_language": "en",
+      "original_title": "There Are No Saints",
+      "overview": "A man is imprisoned for a crime he didn't commit. When his wife is murdered and his son kidnapped and taken to Mexico, he devises an elaborate and dangerous plan to rescue his son and avenge the murder.",
+      "popularity": 1195.266,
+      "poster_path": "/fcOTYArjKuAgufwHoTvx8w9UKCv.jpg",
+      "release_date": "2022-05-27",
+      "title": "There Are No Saints",
+      "video": false,
+      "vote_average": 5.7,
+      "vote_count": 48
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/bQXAqRx2Fgc46uCVWgoPz5L5Dtr.jpg",
+      "genre_ids": [
+        28,
+        14,
+        878
+      ],
+      "id": 436270,
+      "original_language": "en",
+      "original_title": "Black Adam",
+      "overview": "Nearly 5,000 years after he was bestowed with the almighty powers of the Egyptian gods—and imprisoned just as quickly—Black Adam is freed from his earthly tomb, ready to unleash his unique form of justice on the modern world.",
+      "popularity": 924.248,
+      "poster_path": "/pFlaoHTZeyNkG83vxsAJiGzfSsa.jpg",
+      "release_date": "2022-10-19",
+      "title": "Black Adam",
+      "video": false,
+      "vote_average": 7.2,
+      "vote_count": 4266
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/qHdPNd1cUaSNYLLNgt1Pv3LVd0T.jpg",
+      "genre_ids": [
+        878,
+        28,
+        12
+      ],
+      "id": 843794,
+      "original_language": "ko",
+      "original_title": "정이",
+      "overview": "On an uninhabitable 22nd-century Earth, the outcome of a civil war hinges on cloning the brain of an elite soldier to create a robot mercenary.",
+      "popularity": 947.013,
+      "poster_path": "/z2nfRxZCGFgAnVhb9pZO87TyTX5.jpg",
+      "release_date": "2023-01-20",
+      "title": "JUNG_E",
+      "video": false,
+      "vote_average": 6.3,
+      "vote_count": 339
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/nSfR8zUSG33mmtuJTuOBbwlZpCh.jpg",
+      "genre_ids": [
+        28,
+        80,
+        53
+      ],
+      "id": 1035806,
+      "original_language": "en",
+      "original_title": "Detective Knight: Independence",
+      "overview": "Detective James Knight 's last-minute assignment to the Independence Day shift turns into a race to stop an unbalanced ambulance EMT from imperiling the city's festivities. The misguided vigilante, playing cop with a stolen gun and uniform, has a bank vault full of reasons to put on his own fireworks show... one that will strike dangerously close to Knight's home.",
+      "popularity": 995.98,
+      "poster_path": "/jrPKVQGjc3YZXm07OYMriIB47HM.jpg",
+      "release_date": "2023-01-20",
+      "title": "Detective Knight: Independence",
+      "video": false,
+      "vote_average": 6.2,
+      "vote_count": 70
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/rbUPJoJJquPbX1AiV6GzOqcmJME.jpg",
+      "genre_ids": [
+        28,
+        16,
+        35,
+        14,
+        27,
+        10752
+      ],
+      "id": 587092,
+      "original_language": "es",
+      "original_title": "Unicorn Wars",
+      "overview": "An army of bear cubs train and indoctrinate young recruits for the war against the unicorns, which threatens the safety of the cubs. Brothers Bluet and Tubby, along with a group of inexperienced cadets, are sent on a dangerous mission to save the Magic Forest, where the unicorns live, and start a terrible battle.",
+      "popularity": 777.574,
+      "poster_path": "/8KBj11zBaRdhoeq1q9jcAwKmDSk.jpg",
+      "release_date": "2022-12-28",
+      "title": "Unicorn Wars",
+      "video": false,
+      "vote_average": 6.4,
+      "vote_count": 11
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jYbABnXml6XyQ7cfhZFkMRZvMQz.jpg",
+      "genre_ids": [
+        80,
+        28
+      ],
+      "id": 823999,
+      "original_language": "it",
+      "original_title": "Diabolik - Ginko all'attacco!",
+      "overview": "Diabolik nearly gets caught in Inspector Ginko's latest trap, leaving his partner in crime Eva Kant behind in the escape. Furious, Eva offers Ginko her help in capturing the King of Terror, but the former has to face the return of an old flame of his: Altea, Duchess of Vallenberg.",
+      "popularity": 901.121,
+      "poster_path": "/31MkuLvT1CfGn7RYorWrqEY7NEM.jpg",
+      "release_date": "2022-11-17",
+      "title": "Diabolik - Ginko all'attacco!",
+      "video": false,
+      "vote_average": 5.9,
+      "vote_count": 44
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/Aqldsq65Nj1KAkQD2MzkZsAk5N5.jpg",
+      "genre_ids": [
+        28,
+        53,
+        18
+      ],
+      "id": 846433,
+      "original_language": "es",
+      "original_title": "The Enforcer",
+      "overview": "A noir thriller set in Miami, the film follows an enforcer who discovers his femme fatale boss has branched out into cyber sex trafficking, putting a young runaway he’s befriended at risk. He sacrifices everything to save the young girl from the deadly organization he’s spent his life building.",
+      "popularity": 636.795,
+      "poster_path": "/pXC8JJbfnRWtbD8i2yKFqqWEO4X.jpg",
+      "release_date": "2022-09-22",
+      "title": "The Enforcer",
+      "video": false,
+      "vote_average": 7.2,
+      "vote_count": 238
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/af1tFYzzT2mHIy2l7nTIU8PWfak.jpg",
+      "genre_ids": [
+        80,
+        18,
+        53
+      ],
+      "id": 842942,
+      "original_language": "en",
+      "original_title": "Bandit",
+      "overview": "After escaping a Michigan prison, a charming career criminal assumes a new identity in Canada and goes on to rob a record 59 banks and jewellery stores while being hunted by a rogue task force. Based on the story of The Flying Bandit.",
+      "popularity": 893.229,
+      "poster_path": "/yph9PAbmjYPvyvbeZvdYIhCZHEu.jpg",
+      "release_date": "2022-09-23",
+      "title": "Bandit",
+      "video": false,
+      "vote_average": 6.8,
+      "vote_count": 74
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ejniJnlOdtSgtbh8D7u2RxT6Uli.jpg",
+      "genre_ids": [
+        35,
+        14
+      ],
+      "id": 772071,
+      "original_language": "es",
+      "original_title": "Cuando Sea Joven",
+      "overview": "70-year-old Malena gets a second chance at life when she magically turns into her 22-year-old self. Now, posing as \"Maria\" to hide her true identity, she becomes the lead singer of her grandson's band and tries to recover her dream of singing, which she had to give up at some point.",
+      "popularity": 60.613,
+      "poster_path": "/6gIJuFHh5Lj4dNaPG3TzIMl7L68.jpg",
+      "release_date": "2022-09-14",
+      "title": "Cuando Sea Joven",
+      "video": false,
+      "vote_average": 8.7,
+      "vote_count": 206
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/tmU7GeKVybMWFButWEGl2M4GeiP.jpg",
+      "genre_ids": [
+        18,
+        80
+      ],
+      "id": 238,
+      "original_language": "en",
+      "original_title": "The Godfather",
+      "overview": "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge.",
+      "popularity": 112.806,
+      "poster_path": "/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+      "release_date": "1972-03-14",
+      "title": "The Godfather",
+      "video": false,
+      "vote_average": 8.7,
+      "vote_count": 17512
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/wPU78OPN4BYEgWYdXyg0phMee64.jpg",
+      "genre_ids": [
+        18,
+        80
+      ],
+      "id": 278,
+      "original_language": "en",
+      "original_title": "The Shawshank Redemption",
+      "overview": "Framed in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope.",
+      "popularity": 92.417,
+      "poster_path": "/hBcY0fE9pfXzvVaY4GKarweriG2.jpg",
+      "release_date": "1994-09-23",
+      "title": "The Shawshank Redemption",
+      "video": false,
+      "vote_average": 8.7,
+      "vote_count": 23349
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/wxaBkuqVIgImjRHEMJoxL9Lq6i8.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        12,
+        14
+      ],
+      "id": 995133,
+      "original_language": "en",
+      "original_title": "The Boy, the Mole, the Fox and the Horse",
+      "overview": "The unlikely friendship of a boy, a mole, a fox and a horse traveling together in the boy’s search for home.",
+      "popularity": 37.08,
+      "poster_path": "/oQRgyQCzcyZvE6w5heM9ktVY0LT.jpg",
+      "release_date": "2022-12-25",
+      "title": "The Boy, the Mole, the Fox and the Horse",
+      "video": false,
+      "vote_average": 8.6,
+      "vote_count": 234
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/kGzFbGhp99zva6oZODW5atUtnqi.jpg",
+      "genre_ids": [
+        18,
+        80
+      ],
+      "id": 240,
+      "original_language": "en",
+      "original_title": "The Godfather Part II",
+      "overview": "In the continuing saga of the Corleone crime family, a young Vito Corleone grows up in Sicily and in 1910s New York. In the 1950s, Michael Corleone attempts to expand the family business into Las Vegas, Hollywood and Cuba.",
+      "popularity": 81.907,
+      "poster_path": "/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg",
+      "release_date": "1974-12-20",
+      "title": "The Godfather Part II",
+      "video": false,
+      "vote_average": 8.6,
+      "vote_count": 10603
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zb6fM1CX41D9rF9hdgclu0peUmy.jpg",
+      "genre_ids": [
+        18,
+        36,
+        10752
+      ],
+      "id": 424,
+      "original_language": "en",
+      "original_title": "Schindler's List",
+      "overview": "The true story of how businessman Oskar Schindler saved over a thousand Jewish lives from the Nazis while they worked as slaves in his factory during World War II.",
+      "popularity": 57.507,
+      "poster_path": "/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
+      "release_date": "1993-12-15",
+      "title": "Schindler's List",
+      "video": false,
+      "vote_average": 8.6,
+      "vote_count": 13796
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vI3aUGTuRRdM7J78KIdW98LdxE5.jpg",
+      "genre_ids": [
+        35,
+        18,
+        10749
+      ],
+      "id": 19404,
+      "original_language": "hi",
+      "original_title": "दिलवाले दुल्हनिया ले जायेंगे",
+      "overview": "Raj is a rich, carefree, happy-go-lucky second generation NRI. Simran is the daughter of Chaudhary Baldev Singh, who in spite of being an NRI is very strict about adherence to Indian values. Simran has left for India to be married to her childhood fiancé. Raj leaves for India with a mission at his hands, to claim his lady love under the noses of her whole family. Thus begins a saga.",
+      "popularity": 22.588,
+      "poster_path": "/2CAL2433ZeIihfX1Hb2139CX0pW.jpg",
+      "release_date": "1995-10-19",
+      "title": "Dilwale Dulhania Le Jayenge",
+      "video": false,
+      "vote_average": 8.6,
+      "vote_count": 4064
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/Ab8mkHmkYADjU7wQiOkia9BzGvS.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        14
+      ],
+      "id": 129,
+      "original_language": "ja",
+      "original_title": "千と千尋の神隠し",
+      "overview": "A young girl, Chihiro, becomes trapped in a strange new world of spirits. When her parents undergo a mysterious transformation, she must call upon the courage she never knew she had to free her family.",
+      "popularity": 93.588,
+      "poster_path": "/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
+      "release_date": "2002-09-20",
+      "title": "Spirited Away",
+      "video": false,
+      "vote_average": 8.5,
+      "vote_count": 13984
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/qqHQsStV6exghCM7zbObuYBiYxw.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 389,
+      "original_language": "en",
+      "original_title": "12 Angry Men",
+      "overview": "The defense and the prosecution have rested and the jury is filing into the jury room to decide if a young Spanish-American is guilty or innocent of murdering his father. What begins as an open and shut case soon becomes a mini-drama of each of the jurors' prejudices and preconceptions about the trial, the accused, and each other.",
+      "popularity": 45.183,
+      "poster_path": "/ppd84D2i9W8jXmsyInGyihiSyqz.jpg",
+      "release_date": "1957-04-10",
+      "title": "12 Angry Men",
+      "video": false,
+      "vote_average": 8.5,
+      "vote_count": 7064
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/dIWwZW7dJJtqC6CgWzYkNVKIUm8.jpg",
+      "genre_ids": [
+        10749,
+        16,
+        18
+      ],
+      "id": 372058,
+      "original_language": "ja",
+      "original_title": "君の名は。",
+      "overview": "High schoolers Mitsuha and Taki are complete strangers living separate lives. But one night, they suddenly switch places. Mitsuha wakes up in Taki’s body, and he in hers. This bizarre occurrence continues to happen randomly, and the two must adjust their lives around each other.",
+      "popularity": 100.711,
+      "poster_path": "/q719jXXEzOoYaps6babgKnONONX.jpg",
+      "release_date": "2016-08-26",
+      "title": "Your Name.",
+      "video": false,
+      "vote_average": 8.5,
+      "vote_count": 9540
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hiKmpZMGZsrkA3cdce8a7Dpos1j.jpg",
+      "genre_ids": [
+        35,
+        53,
+        18
+      ],
+      "id": 496243,
+      "original_language": "ko",
+      "original_title": "기생충",
+      "overview": "All unemployed, Ki-taek's family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.",
+      "popularity": 84.159,
+      "poster_path": "/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+      "release_date": "2019-05-30",
+      "title": "Parasite",
+      "video": false,
+      "vote_average": 8.5,
+      "vote_count": 15309
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/l6hQWH9eDksNJNiXWYRkWqikOdu.jpg",
+      "genre_ids": [
+        14,
+        18,
+        80
+      ],
+      "id": 497,
+      "original_language": "en",
+      "original_title": "The Green Mile",
+      "overview": "A supernatural tale set on death row in a Southern prison, where gentle giant John Coffey possesses the mysterious power to heal people's ailments. When the cell block's head guard, Paul Edgecomb, recognizes Coffey's miraculous gift, he tries desperately to help stave off the condemned man's execution.",
+      "popularity": 95.825,
+      "poster_path": "/velWPhVMQeQKcxggNEU8YmIo52R.jpg",
+      "release_date": "1999-12-10",
+      "title": "The Green Mile",
+      "video": false,
+      "vote_average": 8.5,
+      "vote_count": 15088
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/pbEkjhdfP7yuDcMB78YEZwgD4IN.jpg",
+      "genre_ids": [
+        18,
+        28,
+        80,
+        53
+      ],
+      "id": 155,
+      "original_language": "en",
+      "original_title": "The Dark Knight",
+      "overview": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
+      "popularity": 83.379,
+      "poster_path": "/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+      "release_date": "2008-07-14",
+      "title": "The Dark Knight",
+      "video": false,
+      "vote_average": 8.5,
+      "vote_count": 29235
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/suaEOtk1N1sgg2MTM7oZd2cfVp3.jpg",
+      "genre_ids": [
+        53,
+        80
+      ],
+      "id": 680,
+      "original_language": "en",
+      "original_title": "Pulp Fiction",
+      "overview": "A burger-loving hit man, his philosophical partner, a drug-addled gangster's moll and a washed-up boxer converge in this sprawling, comedic crime caper. Their adventures unfurl in three stories that ingeniously trip back and forth in time.",
+      "popularity": 73.09,
+      "poster_path": "/d5iIlFn5s0ImszYzBPb8JPIfbXD.jpg",
+      "release_date": "1994-09-10",
+      "title": "Pulp Fiction",
+      "video": false,
+      "vote_average": 8.5,
+      "vote_count": 24717
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/eoCSp75lxatmIa6aGqfnzwtbttd.jpg",
+      "genre_ids": [
+        37
+      ],
+      "id": 429,
+      "original_language": "it",
+      "original_title": "Il buono, il brutto, il cattivo",
+      "overview": "While the Civil War rages on between the Union and the Confederacy, three men – a quiet loner, a ruthless hitman, and a Mexican bandit – comb the American Southwest in search of a strongbox containing $200,000 in stolen gold.",
+      "popularity": 76.861,
+      "poster_path": "/bX2xnavhMYjWDoZp1VM6VnU1xwe.jpg",
+      "release_date": "1966-12-23",
+      "title": "The Good, the Bad and the Ugly",
+      "video": false,
+      "vote_average": 8.5,
+      "vote_count": 7227
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3h1JZGDhZ8nzxdgvkxha0qBqi05.jpg",
+      "genre_ids": [
+        35,
+        18,
+        10749
+      ],
+      "id": 13,
+      "original_language": "en",
+      "original_title": "Forrest Gump",
+      "overview": "A man with a low IQ has accomplished great things in his life and been present during significant historic events—in each case, far exceeding what anyone imagined he could do. But despite all he has achieved, his one true love eludes him.",
+      "popularity": 72.514,
+      "poster_path": "/arw2vcBveWOVZr6pxd9XTd1TdQa.jpg",
+      "release_date": "1994-06-23",
+      "title": "Forrest Gump",
+      "video": false,
+      "vote_average": 8.5,
+      "vote_count": 24205
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/lXhgCODAbBXL5buk9yEmTpOoOgR.jpg",
+      "genre_ids": [
+        12,
+        14,
+        28
+      ],
+      "id": 122,
+      "original_language": "en",
+      "original_title": "The Lord of the Rings: The Return of the King",
+      "overview": "Aragorn is revealed as the heir to the ancient kings as he, Gandalf and the other members of the broken fellowship struggle to save Gondor from Sauron's forces. Meanwhile, Frodo and Sam take the ring closer to the heart of Mordor, the dark lord's realm.",
+      "popularity": 83.763,
+      "poster_path": "/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg",
+      "release_date": "2003-12-01",
+      "title": "The Lord of the Rings: The Return of the King",
+      "video": false,
+      "vote_average": 8.5,
+      "vote_count": 21192
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3RMLbSEXOn1CzLoNT7xFeLfdxhq.jpg",
+      "genre_ids": [
+        10749,
+        16
+      ],
+      "id": 372754,
+      "original_language": "ja",
+      "original_title": "同級生",
+      "overview": "Rihito Sajo, an honor student with a perfect score on the entrance exam and Hikaru Kusakabe, in a band and popular among girls, would have never crossed paths. Until one day they started talking at the practice for their school’s upcoming chorus festival. After school, the two meet regularly, as Hikaru helps Rihito to improve his singing skills. While they listen to each other’s voice and harmonize, their hearts start to beat together.",
+      "popularity": 14.837,
+      "poster_path": "/cIfRCA5wEvj9tApca4UDUagQEiM.jpg",
+      "release_date": "2016-02-20",
+      "title": "Dou kyu sei – Classmates",
+      "video": false,
+      "vote_average": 8.5,
+      "vote_count": 291
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/w2uGvCpMtvRqZg6waC1hvLyZoJa.jpg",
+      "genre_ids": [
+        10749
+      ],
+      "id": 696374,
+      "original_language": "en",
+      "original_title": "Gabriel's Inferno",
+      "overview": "An intriguing and sinful exploration of seduction, forbidden love, and redemption, Gabriel's Inferno is a captivating and wildly passionate tale of one man's escape from his own personal hell as he tries to earn the impossible--forgiveness and love.",
+      "popularity": 17.747,
+      "poster_path": "/oyG9TL7FcRP4EZ9Vid6uKzwdndz.jpg",
+      "release_date": "2020-05-29",
+      "title": "Gabriel's Inferno",
+      "video": false,
+      "vote_average": 8.5,
+      "vote_count": 2325
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/sw7mordbZxgITU877yTpZCud90M.jpg",
+      "genre_ids": [
+        18,
+        80
+      ],
+      "id": 769,
+      "original_language": "en",
+      "original_title": "GoodFellas",
+      "overview": "The true story of Henry Hill, a half-Irish, half-Sicilian Brooklyn kid who is adopted by neighbourhood gangsters at an early age and climbs the ranks of a Mafia family under the guidance of Jimmy Conway.",
+      "popularity": 52.174,
+      "poster_path": "/aKuFiU82s5ISJpGZp7YkIr3kCUd.jpg",
+      "release_date": "1990-09-12",
+      "title": "GoodFellas",
+      "video": false,
+      "vote_average": 8.5,
+      "vote_count": 11016
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/r7Dfg9aRZ78gJsmDlCirIIlNH3d.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 785084,
+      "original_language": "en",
+      "original_title": "The Whale",
+      "overview": "A reclusive English teacher suffering from severe obesity attempts to reconnect with his estranged teenage daughter for one last chance at redemption.",
+      "popularity": 1450.14,
+      "poster_path": "/jQ0gylJMxWSL490sy0RrPj1Lj7e.jpg",
+      "release_date": "2022-12-09",
+      "title": "The Whale",
+      "video": false,
+      "vote_average": 7.8,
+      "vote_count": 412
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/f9PSbuMeBS5CuHEOVyymg5lcq8J.jpg",
+      "genre_ids": [
+        28,
+        53,
+        9648,
+        80,
+        27
+      ],
+      "id": 996727,
+      "original_language": "en",
+      "original_title": "The Price We Pay",
+      "overview": "After a pawn shop robbery goes askew, two criminals take refuge at a remote farmhouse to try to let the heat die down, but find something much more menacing.",
+      "popularity": 753.049,
+      "poster_path": "/8fwJt0qZieQ7dKaiiqehObWpXYT.jpg",
+      "release_date": "2023-01-13",
+      "title": "The Price We Pay",
+      "video": false,
+      "vote_average": 6.1,
+      "vote_count": 75
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/xTsERrOCW15OIYl5aPX7Jbj38wu.jpg",
+      "genre_ids": [
+        28,
+        18,
+        36
+      ],
+      "id": 724495,
+      "original_language": "en",
+      "original_title": "The Woman King",
+      "overview": "The story of the Agojie, the all-female unit of warriors who protected the African Kingdom of Dahomey in the 1800s with skills and a fierceness unlike anything the world has ever seen, and General Nanisca as she trains the next generation of recruits and readies them for battle against an enemy determined to destroy their way of life.",
+      "popularity": 478.92,
+      "poster_path": "/438QXt1E3WJWb3PqNniK0tAE5c1.jpg",
+      "release_date": "2022-09-16",
+      "title": "The Woman King",
+      "video": false,
+      "vote_average": 7.8,
+      "vote_count": 1273
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/v2GqQcm4Yg54ADrdbEi4Y1FZZhz.jpg",
+      "genre_ids": [
+        53,
+        27
+      ],
+      "id": 746524,
+      "original_language": "en",
+      "original_title": "Blood",
+      "overview": "Jess, a newly separated mother and nurse, moves into her old family farmhouse with Tyler, her teenage daughter, and Owen, her eight-year-old son. One night, the family dog senses something in the woods and runs off to find it. He returns a couple of days later and attacks Owen, savagely biting him before Jess is able to intervene. Owen is rushed to the hospital. His condition worsens, and no one can figure out why... until Jess discovers a disturbing cure...",
+      "popularity": 494.457,
+      "poster_path": "/gCUFtTvjK4gbmjVxhx8bhyOhAeW.jpg",
+      "release_date": "2023-01-12",
+      "title": "Blood",
+      "video": false,
+      "vote_average": 6.4,
+      "vote_count": 34
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ofteFQqIntae7wqVAYYyXOCmkF1.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "id": 980078,
+      "original_language": "en",
+      "original_title": "Winnie-the-Pooh: Blood and Honey",
+      "overview": "Christopher Robin is headed off to college and he has abandoned his old friends, Pooh and Piglet, which then leads to the duo embracing their inner monsters.",
+      "popularity": 426.638,
+      "poster_path": "/wtFwgFFk1ze789ghcadWGEVjj3N.jpg",
+      "release_date": "2023-01-27",
+      "title": "Winnie-the-Pooh: Blood and Honey",
+      "video": false,
+      "vote_average": 5.7,
+      "vote_count": 41
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/cSjccCESfkHq2AltVkY3WRYXqdg.jpg",
+      "genre_ids": [
+        18,
+        53
+      ],
+      "id": 850028,
+      "original_language": "en",
+      "original_title": "Alice, Darling",
+      "overview": "A young woman trapped in an abusive relationship becomes an unwitting participant in an intervention staged by her two closest friends.",
+      "popularity": 218.603,
+      "poster_path": "/3QpO7dxLXBdPgWpNLKvRNojz7bv.jpg",
+      "release_date": "2022-12-30",
+      "title": "Alice, Darling",
+      "video": false,
+      "vote_average": 6.2,
+      "vote_count": 45
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/35nt3MwBzW6RYFjoqOU8POQRSib.jpg",
+      "genre_ids": [
+        28,
+        53,
+        27
+      ],
+      "id": 799379,
+      "original_language": "ko",
+      "original_title": "늑대사냥",
+      "overview": "While under heavily armed guard, the dangerous convicts aboard a cargo ship unite in a coordinated escape attempt that soon escalates into a bloody, all-out riot. But as the fugitives continue their brutal campaign of terror, they soon discover that not even the most vicious among them is safe from the horror they unknowingly unleashed from the darkness below deck.",
+      "popularity": 152.859,
+      "poster_path": "/dniWicB6fa7NvpGbguxWlNPMc5f.jpg",
+      "release_date": "2022-09-21",
+      "title": "Project Wolf Hunting",
+      "video": false,
+      "vote_average": 6.5,
+      "vote_count": 92
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/2cQMVHBaP1wK0UBX5SGDahB3lp3.jpg",
+      "genre_ids": [
+        9648,
+        53,
+        27
+      ],
+      "id": 807356,
+      "original_language": "en",
+      "original_title": "Watcher",
+      "overview": "As a serial killer stalks the city, Julia — a young actress who just moved to town with her husband — notices a mysterious stranger watching her from across the street.",
+      "popularity": 127.029,
+      "poster_path": "/7UUVLbpOwZGqIDKQ4RArPPtIYLw.jpg",
+      "release_date": "2022-06-03",
+      "title": "Watcher",
+      "video": false,
+      "vote_average": 6.6,
+      "vote_count": 483
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gG9fTyDL03fiKnOpf2tr01sncnt.jpg",
+      "genre_ids": [
+        28,
+        878,
+        14
+      ],
+      "id": 526896,
+      "original_language": "en",
+      "original_title": "Morbius",
+      "overview": "Dangerously ill with a rare blood disorder, and determined to save others suffering his same fate, Dr. Michael Morbius attempts a desperate gamble. What at first appears to be a radical success soon reveals itself to be a remedy potentially worse than the disease.",
+      "popularity": 159.828,
+      "poster_path": "/6JjfSchsU6daXk2AKX8EEBjO3Fm.jpg",
+      "release_date": "2022-03-30",
+      "title": "Morbius",
+      "video": false,
+      "vote_average": 6.2,
+      "vote_count": 3235
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hUtrCoGrlo3o8juAI1ZzA7F1LX9.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 777245,
+      "original_language": "en",
+      "original_title": "Women Talking",
+      "overview": "A group of women in an isolated religious colony struggle to reconcile their faith with a series of sexual assaults committed by the colony's men.",
+      "popularity": 124.927,
+      "poster_path": "/xbBqiLakuMl1NS4Y1GZTGvk1xOR.jpg",
+      "release_date": "2022-12-23",
+      "title": "Women Talking",
+      "video": false,
+      "vote_average": 7.3,
+      "vote_count": 55
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/sDoFLl0fEOIsBUJkDINxLiTnkXc.jpg",
+      "genre_ids": [
+        27,
+        9648,
+        53
+      ],
+      "id": 934433,
+      "original_language": "en",
+      "original_title": "Scream VI",
+      "overview": "Following the latest Ghostface killings, the four survivors leave Woodsboro behind and start a fresh chapter.",
+      "popularity": 126.921,
+      "poster_path": "/yAwJA1Y2Kt1XdbX72cL4MKtIDs3.jpg",
+      "release_date": "2023-03-08",
+      "title": "Scream VI",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6RCf9jzKxyjblYV4CseayK6bcJo.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 804095,
+      "original_language": "en",
+      "original_title": "The Fabelmans",
+      "overview": "Growing up in post-World War II era Arizona, young Sammy Fabelman aspires to become a filmmaker as he reaches adolescence, but soon discovers a shattering family secret and explores how the power of films can help him see the truth.",
+      "popularity": 105.852,
+      "poster_path": "/d2IywyOPS78vEnJvwVqkVRTiNC1.jpg",
+      "release_date": "2022-11-11",
+      "title": "The Fabelmans",
+      "video": false,
+      "vote_average": 8,
+      "vote_count": 816
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vn4vwKXiqpcmThenluyWhxMvTQK.jpg",
+      "genre_ids": [
+        14,
+        28,
+        35
+      ],
+      "id": 594767,
+      "original_language": "en",
+      "original_title": "Shazam! Fury of the Gods",
+      "overview": "Billy Batson and his foster siblings, who transform into superheroes by saying \"Shazam!\", are forced to get back into action and fight the Daughters of Atlas, who they must stop from using a weapon that could destroy the world.",
+      "popularity": 131.538,
+      "poster_path": "/zpCCTtuQMHiHycpsrWnW2eCrBql.jpg",
+      "release_date": "2023-03-15",
+      "title": "Shazam! Fury of the Gods",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/pEwyF5rdnNqdesnZIADMZSd8peQ.jpg",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "id": 497828,
+      "original_language": "en",
+      "original_title": "Triangle of Sadness",
+      "overview": "A celebrity model couple are invited on a luxury cruise for the uber-rich, helmed by an unhinged, alcoholic captain. What first appears Instagrammable ends catastrophically, leaving the survivors stranded on a desert island in a struggle of hierarchy.",
+      "popularity": 90.347,
+      "poster_path": "/jXHmT914ACC81F1Dy57hsesuoYj.jpg",
+      "release_date": "2022-09-23",
+      "title": "Triangle of Sadness",
+      "video": false,
+      "vote_average": 7.4,
+      "vote_count": 811
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jXf9hWuLxBilWqUmWlMg542IOpi.jpg",
+      "genre_ids": [
+        878,
+        53
+      ],
+      "id": 700391,
+      "original_language": "en",
+      "original_title": "65",
+      "overview": "After a catastrophic crash on an unknown planet, pilot Mills quickly discovers he's actually stranded on Earth…65 million years ago. Now, with only one chance at rescue, Mills and the only other survivor, Koa, must make their way across an unknown terrain riddled with dangerous prehistoric creatures in an epic fight to survive.",
+      "popularity": 99.448,
+      "poster_path": "/uMMIeMVk1TCG3CZilpxbzFh0JKT.jpg",
+      "release_date": "2023-03-08",
+      "title": "65",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/irwQcdjwtjLnaA0iErabab9PrmG.jpg",
+      "genre_ids": [
+        28,
+        12,
+        53
+      ],
+      "id": 646389,
+      "original_language": "en",
+      "original_title": "Plane",
+      "overview": "After a heroic job of successfully landing his storm-damaged aircraft in a war zone, a fearless pilot finds himself between the agendas of multiple militias planning to take the plane and its passengers hostage.",
+      "popularity": 3057.298,
+      "poster_path": "/qi9r5xBgcc9KTxlOLjssEbDgO0J.jpg",
+      "release_date": "2023-01-12",
+      "title": "Plane",
+      "video": false,
+      "vote_average": 6.8,
+      "vote_count": 626
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zGoZB4CboMzY1z4G3nU6BWnMDB2.jpg",
+      "genre_ids": [
+        28,
+        10749,
+        35
+      ],
+      "id": 758009,
+      "original_language": "en",
+      "original_title": "Shotgun Wedding",
+      "overview": "Darcy and Tom gather their families for the ultimate destination wedding but when the entire party is taken hostage, “’Til Death Do Us Part” takes on a whole new meaning in this hilarious, adrenaline-fueled adventure as Darcy and Tom must save their loved ones—if they don’t kill each other first.",
+      "popularity": 1533.964,
+      "poster_path": "/t79ozwWnwekO0ADIzsFP1E5SkvR.jpg",
+      "release_date": "2022-12-28",
+      "title": "Shotgun Wedding",
+      "video": false,
+      "vote_average": 6.4,
+      "vote_count": 539
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/k4V6EvpcOsu8CX10JD0H53lFXLq.jpg",
+      "genre_ids": [
+        53,
+        28,
+        18,
+        80
+      ],
+      "id": 1058949,
+      "original_language": "en",
+      "original_title": "Little Dixie",
+      "overview": "Erstwhile Special Forces operative Doc Alexander is asked to broker a truce with the Mexican drug cartel in secrecy. When Oklahoma Governor Richard Jeffs celebrates the execution of a high-ranking cartel member on TV, his Chief of Staff and Doc inform him about the peace he just ended. But it’s too late, as Cuco, the cartel’s hatchet man, has set his vengeful sights on Doc’s daughter Dixie.",
+      "popularity": 1665.587,
+      "poster_path": "/cmWTZj9zzT9KFt3XyL0gssL7Ig8.jpg",
+      "release_date": "2023-02-03",
+      "title": "Little Dixie",
+      "video": false,
+      "vote_average": 6.1,
+      "vote_count": 22
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/a4I481szRmycyreQTLrRe4f4YJe.jpg",
+      "genre_ids": [
+        80,
+        53,
+        18
+      ],
+      "id": 842544,
+      "original_language": "en",
+      "original_title": "Transfusion",
+      "overview": "Ryan Logan, a former Special Forces operative, is battling to cope with life after the loss of his wife.  He is thrusted into the criminal underworld to keep his only son from being taken from him.",
+      "popularity": 835.75,
+      "poster_path": "/bxh5xCCW9Ynfg6EZJWUkc1zqTnr.jpg",
+      "release_date": "2023-01-05",
+      "title": "Transfusion",
+      "video": false,
+      "vote_average": 6.6,
+      "vote_count": 112
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/d0YSRmp819pMRnKLfGMgAQchpnR.jpg",
+      "genre_ids": [
+        27,
+        53,
+        9648
+      ],
+      "id": 788752,
+      "original_language": "no",
+      "original_title": "Vikingulven",
+      "overview": "After witnessing a grotesque murder at a party in her new town, a teenager starts having strange visions and bizarre desires.",
+      "popularity": 700.525,
+      "poster_path": "/abBDzmy35A3Nkupn6wK2DKyFamd.jpg",
+      "release_date": "2022-11-18",
+      "title": "Viking Wolf",
+      "video": false,
+      "vote_average": 5.5,
+      "vote_count": 138
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jhi3K0rN46SSu9wEu6zYVCOeVtH.jpg",
+      "genre_ids": [
+        16,
+        28,
+        878
+      ],
+      "id": 1003580,
+      "original_language": "en",
+      "original_title": "Legion of Super-Heroes",
+      "overview": "Kara, devastated by the loss of Krypton, struggles to adjust to her new life on Earth. Her cousin, Superman, mentors her and suggests she leave their space-time to attend the Legion Academy in the 31st century, where she makes new friends and a new enemy: Brainiac 5. Meanwhile, she must contend with a mysterious group called the Dark Circle as it searches for a powerful weapon held in the Academy’s vault.",
+      "popularity": 711.17,
+      "poster_path": "/3whQLi8RI7h2h2Si2KTDFJxfEcR.jpg",
+      "release_date": "2023-02-07",
+      "title": "Legion of Super-Heroes",
+      "video": false,
+      "vote_average": 6.7,
+      "vote_count": 47
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/5pMy5LF2JAleBNBtuzizfCMWM7k.jpg",
+      "genre_ids": [
+        10752,
+        36,
+        18
+      ],
+      "id": 653851,
+      "original_language": "en",
+      "original_title": "Devotion",
+      "overview": "The harrowing true story of two elite US Navy fighter pilots during the Korean War. Their heroic sacrifices would ultimately make them the Navy's most celebrated wingmen.",
+      "popularity": 723.934,
+      "poster_path": "/lwybGlEEJtXZM3ynY19PNwNlPn9.jpg",
+      "release_date": "2022-11-23",
+      "title": "Devotion",
+      "video": false,
+      "vote_average": 7.4,
+      "vote_count": 330
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/cU7itLM8qmwMiaNnWsJPQLKe79j.jpg",
+      "genre_ids": [
+        878,
+        27,
+        12,
+        28
+      ],
+      "id": 1013870,
+      "original_language": "en",
+      "original_title": "Kids vs. Aliens",
+      "overview": "All Gary wants is to make awesome home movies with his best buds. All his older sister Samantha wants is to hang with the cool kids. When their parents head out of town one Halloween weekend, an all-time rager of a teen house party turns to terror when aliens attack, forcing the siblings to band together to survive the night.",
+      "popularity": 632.6,
+      "poster_path": "/wQ53sO5n9LCFbssV3oQ4CuajL1L.jpg",
+      "release_date": "2023-01-20",
+      "title": "Kids vs. Aliens",
+      "video": false,
+      "vote_average": 6.1,
+      "vote_count": 36
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/pketzKFjq5TERXoXFM3L0OYRCLe.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        12
+      ],
+      "id": 599019,
+      "original_language": "ru",
+      "original_title": "Большое путешествие. Специальная доставка",
+      "overview": "It has been a year since Mic Mic and Oscar returned from their incredible adventure. And now, after a diabolical plan by Vulture to sabotage the delivery of the Grizzly cub to his opponent in the American presidential elections, Mic Mic, Oscar, Panda teenager and Stork set off on another great adventure as they ride a zeppelin to return little Grizzly to its rightful parents and save the American elections and the whole continent from an erupting volcano.",
+      "popularity": 669.699,
+      "poster_path": "/dabXVfrAFfhDte8XVemom3mTJog.jpg",
+      "release_date": "2022-10-07",
+      "title": "Big Trip 2: Special Delivery",
+      "video": false,
+      "vote_average": 6.5,
+      "vote_count": 18
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vXjpwkXPirBmgdEpIknfN8ziDD.jpg",
+      "genre_ids": [
+        16,
+        12,
+        14,
+        35
+      ],
+      "id": 947938,
+      "original_language": "ru",
+      "original_title": "Мальчик-дельфин",
+      "overview": "When a plane crashes at sea, dolphins rescue a little boy and raise him as family. He lives a carefree life beneath the waves until an evil monster seizes power over the underwater world. The boy is banished to dry land, where a kind-hearted captain takes him in. With the captain’s help, the boy sets out on a journey to solve the mystery of his true identity.",
+      "popularity": 608.347,
+      "poster_path": "/gISoDEiaUH9BNEunmLC7FgUVaia.jpg",
+      "release_date": "2022-04-07",
+      "title": "Dolphin Boy",
+      "video": false,
+      "vote_average": 6.2,
+      "vote_count": 33
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8oj1pbizI6RS5xlyETmlWh9mVqN.jpg",
+      "genre_ids": [
+        27
+      ],
+      "id": 955991,
+      "original_language": "en",
+      "original_title": "The Offering",
+      "overview": "In the wake of a young Jewish girl’s disappearance, the son of a Hasidic funeral director returns home with his pregnant wife in hopes of reconciling with his father. Little do they know that directly beneath them in the family morgue, an ancient evil with sinister plans for the unborn child lurks inside a mysterious corpse.",
+      "popularity": 567.523,
+      "poster_path": "/tbaTFgGIaTL1Uhd0SMob6Dhi5cK.jpg",
+      "release_date": "2023-01-11",
+      "title": "The Offering",
+      "video": false,
+      "vote_average": 5.8,
+      "vote_count": 90
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/cG5QZHyIRJXqo53YA41gbNMlpIM.jpg",
+      "genre_ids": [
+        53,
+        80,
+        18
+      ],
+      "id": 717980,
+      "original_language": "en",
+      "original_title": "Sharper",
+      "overview": "A small, wealthy family in New York City gets progressively torn apart by secrets, lies, and the theft that orchestrates all of it.",
+      "popularity": 445.231,
+      "poster_path": "/tq8x5F17q95T1j0up5rpzXFAylN.jpg",
+      "release_date": "2023-02-10",
+      "title": "Sharper",
+      "video": false,
+      "vote_average": 7.2,
+      "vote_count": 110
+    },
+    {
+      "backdrop_path": "/99vBORZixICa32Pwdwj0lWcr8K.jpg",
+      "first_air_date": "2021-09-03",
+      "genre_ids": [
+        10764
+      ],
+      "id": 130392,
+      "name": "The D'Amelio Show",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "The D'Amelio Show",
+      "overview": "From relative obscurity and a seemingly normal life, to overnight success and thrust into the Hollywood limelight overnight, the D’Amelios are faced with new challenges and opportunities they could not have imagined.",
+      "popularity": 15.218,
+      "poster_path": "/phv2Jc4H8cvRzvTKb9X1uKMboTu.jpg",
+      "vote_average": 9,
+      "vote_count": 3181
+    },
+    {
+      "backdrop_path": "/hwIAR9FDsKULo8efoOUuxsFtO2u.jpg",
+      "first_air_date": "2008-01-20",
+      "genre_ids": [
+        18
+      ],
+      "id": 1396,
+      "name": "Breaking Bad",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Breaking Bad",
+      "overview": "When Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
+      "popularity": 449.867,
+      "poster_path": "/ggFHVNu6YYI5L9pCfOacjizRGt.jpg",
+      "vote_average": 8.9,
+      "vote_count": 11175
+    },
+    {
+      "backdrop_path": "/rkB4LyZHo1NHXFEDHl9vSD9r1lI.jpg",
+      "first_air_date": "2021-11-06",
+      "genre_ids": [
+        16,
+        10765,
+        10759,
+        18
+      ],
+      "id": 94605,
+      "name": "Arcane",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Arcane",
+      "overview": "Amid the stark discord of twin cities Piltover and Zaun, two sisters fight on rival sides of a war between magic technologies and clashing convictions.",
+      "popularity": 69.889,
+      "poster_path": "/fqldf2t8ztc9aiwn3k6mlX3tvRT.jpg",
+      "vote_average": 8.7,
+      "vote_count": 2916
+    },
+    {
+      "backdrop_path": "/uGy4DCmM33I7l86W7iCskNkvmLD.jpg",
+      "first_air_date": "2013-12-02",
+      "genre_ids": [
+        16,
+        35,
+        10765,
+        10759
+      ],
+      "id": 60625,
+      "name": "Rick and Morty",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Rick and Morty",
+      "overview": "Rick is a mentally-unbalanced but scientifically gifted old man who has recently reconnected with his family. He spends most of his time involving his young grandson Morty in dangerous, outlandish adventures throughout space and alternate universes. Compounded with Morty's already unstable family life, these events cause Morty much distress at home and school.",
+      "popularity": 524.971,
+      "poster_path": "/cvhNj9eoRBe5SxjCbQTkh05UP5K.jpg",
+      "vote_average": 8.7,
+      "vote_count": 7925
+    },
+    {
+      "backdrop_path": "/5DUMPBSnHOZsbBv81GFXZXvDpo6.jpg",
+      "first_air_date": "2022-10-12",
+      "genre_ids": [
+        16,
+        10759,
+        10765,
+        35
+      ],
+      "id": 114410,
+      "name": "Chainsaw Man",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "チェンソーマン",
+      "overview": "Denji has a simple dream—to live a happy and peaceful life, spending time with a girl he likes. This is a far cry from reality, however, as Denji is forced by the yakuza into killing devils in order to pay off his crushing debts. Using his pet devil Pochita as a weapon, he is ready to do anything for a bit of cash.",
+      "popularity": 503.347,
+      "poster_path": "/npdB6eFzizki0WaZ1OvKcJrWe97.jpg",
+      "vote_average": 8.7,
+      "vote_count": 881
+    },
+    {
+      "backdrop_path": "/790rH1ByeDJg6VPwBFxdzxHRepI.jpg",
+      "first_air_date": "2019-04-06",
+      "genre_ids": [
+        16,
+        35
+      ],
+      "id": 85990,
+      "name": "Hitoribocchi no Marumaruseikatsu",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "ひとりぼっちの○○生活",
+      "overview": "Hitori Bocchi suffers from extreme social anxiety, she's not good at talking to people, takes pretty extreme actions, is surprisingly adept at avoiding people, her legs cramp when she overexerts herself, gets full of herself when alone, will vomit when exposed to extreme tension and often comes up with plans. Now she is entering middle school and her only friend, Yawara Kai, is attending a different school. This leaves Bocchi alone, surrounded by new classmates with whom she must make friends before Kai will talk to her again.",
+      "popularity": 12.163,
+      "poster_path": "/btoTzCw3zmjRtB99g2M5Mw2GUQG.jpg",
+      "vote_average": 8.7,
+      "vote_count": 127
+    },
+    {
+      "backdrop_path": "/4Mt7WHox67uJ1yErwTBFcV8KWgG.jpg",
+      "first_air_date": "1999-10-20",
+      "genre_ids": [
+        10759,
+        35,
+        16
+      ],
+      "id": 37854,
+      "name": "One Piece",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "ワンピース",
+      "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
+      "popularity": 177.848,
+      "poster_path": "/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+      "vote_average": 8.7,
+      "vote_count": 3601
+    },
+    {
+      "backdrop_path": "/70YdbMELM4b8x8VXjlubymb2bQ0.jpg",
+      "first_air_date": "2017-03-19",
+      "genre_ids": [
+        18,
+        10751
+      ],
+      "id": 70785,
+      "name": "Anne with an E",
+      "origin_country": [
+        "CA"
+      ],
+      "original_language": "en",
+      "original_name": "Anne with an E",
+      "overview": "A coming-of-age story about an outsider who, against all odds and numerous challenges, fights for love and acceptance and for her place in the world. The series centers on a young orphaned girl in the late 1890’s, who, after an abusive childhood spent in orphanages and the homes of strangers, is mistakenly sent to live with an elderly woman and her aging brother. Over time, 13-year-old Anne will transform their lives and eventually the small town in which they live with her unique spirit, fierce intellect and brilliant imagination.",
+      "popularity": 97.263,
+      "poster_path": "/6P6tXhjT5tK3qOXzxF9OMLlG7iz.jpg",
+      "vote_average": 8.7,
+      "vote_count": 4208
+    },
+    {
+      "backdrop_path": "/smSbK5cd8T9XHcxEUcems23BDEF.jpg",
+      "first_air_date": "2016-12-02",
+      "genre_ids": [
+        18,
+        10765,
+        35
+      ],
+      "id": 67915,
+      "name": "Goblin",
+      "origin_country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "original_name": "쓸쓸하고 찬란하神-도깨비",
+      "overview": "In his quest for a bride to break his immortal curse, a 939-year-old guardian of souls meets a grim reaper and a sprightly student with a tragic past.",
+      "popularity": 96.281,
+      "poster_path": "/c2gon6zbqzL73DOl8mPQMMUJXvE.jpg",
+      "vote_average": 8.7,
+      "vote_count": 2444
+    },
+    {
+      "backdrop_path": "/6UH52Fmau8RPsMAbQbjwN3wJSCj.jpg",
+      "first_air_date": "2021-03-25",
+      "genre_ids": [
+        16,
+        10765,
+        10759,
+        18
+      ],
+      "id": 95557,
+      "name": "Invincible",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Invincible",
+      "overview": "Mark Grayson is a normal teenager except for the fact that his father is the most powerful superhero on the planet. Shortly after his seventeenth birthday, Mark begins to develop powers of his own and enters into his father’s tutelage.",
+      "popularity": 87.281,
+      "poster_path": "/yDWJYRAwMNKbIYT8ZB33qy84uzO.jpg",
+      "vote_average": 8.7,
+      "vote_count": 3400
+    },
+    {
+      "backdrop_path": "/2UG177tWHy7xRmMKWJHB7nAUmKd.jpg",
+      "first_air_date": "2009-04-05",
+      "genre_ids": [
+        10759,
+        16,
+        10765
+      ],
+      "id": 31911,
+      "name": "Fullmetal Alchemist: Brotherhood",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "overview": "Edward and Alphonse Elric's reckless disregard for alchemy's fun­damental laws ripped half of Ed's limbs from his body and left Al's soul clinging to a cold suit of armor. To restore what was lost, the brothers scour a war-torn land for the Philosopher's Sto­ne, a fabled relic which grants the ability to perform alchemy in impossible ways.\n\nThe Elrics are not alone in their search; the corrupt State Military is also eager to harness the artifact's power. So too are the strange Homunculi and their shadowy creator. The mythical gem lures exotic alchemists from distant kingdoms, scarring some deeply enough to inspire murder. As the Elrics find their course altered by these enemies and allies, their purpose remains unchanged – and their bond unbreakable.",
+      "popularity": 71.337,
+      "poster_path": "/5ZFUEOULaVml7pQuXxhpR2SmVUw.jpg",
+      "vote_average": 8.7,
+      "vote_count": 1576
+    },
+    {
+      "backdrop_path": "/dJ8yrSokdTMnhKJw06MllSfCegb.jpg",
+      "first_air_date": "2019-01-12",
+      "genre_ids": [
+        16,
+        35,
+        18
+      ],
+      "id": 83121,
+      "name": "Kaguya-sama: Love Is War",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "かぐや様は告らせたい～天才たちの恋愛頭脳戦～",
+      "overview": "Considered a genius due to having the highest grades in the country, Miyuki Shirogane leads the prestigious Shuchiin Academy's student council as its president, working alongside the beautiful and wealthy vice president Kaguya Shinomiya. The two are often regarded as the perfect couple by students despite them not being in any sort of romantic relationship.",
+      "popularity": 82.559,
+      "poster_path": "/5khbC6AuNgnvnoDbjIMKCOhEtIc.jpg",
+      "vote_average": 8.7,
+      "vote_count": 594
+    },
+    {
+      "backdrop_path": "/3ILMlmC30QUnYkY3XEBOyJ82Dqu.jpg",
+      "first_air_date": "2016-04-03",
+      "genre_ids": [
+        10759,
+        16
+      ],
+      "id": 65930,
+      "name": "My Hero Academia",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "僕のヒーローアカデミア",
+      "overview": "In a world where eighty percent of the population has some kind of super-powered Quirk, Izuku was unlucky enough to be born completely normal. But that won't stop him from enrolling in a prestigious hero academy. Now, he'll get his first taste of brutal rivalry from other schools as he braves the cutthroat, no-holds-barred provisional license exam.",
+      "popularity": 109.406,
+      "poster_path": "/ivOLM47yJt90P19RH1NvJrAJz9F.jpg",
+      "vote_average": 8.7,
+      "vote_count": 4190
+    },
+    {
+      "backdrop_path": "/iBAtBLqCMON3NPIjyQ1wdMbpTAk.jpg",
+      "first_air_date": "2019-04-06",
+      "genre_ids": [
+        16,
+        10765,
+        10759
+      ],
+      "id": 85937,
+      "name": "Demon Slayer: Kimetsu no Yaiba",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "鬼滅の刃",
+      "overview": "It is the Taisho Period in Japan. Tanjiro, a kindhearted boy who sells charcoal for a living, finds his family slaughtered by a demon. To make matters worse, his younger sister Nezuko, the sole survivor, has been transformed into a demon herself. Though devastated by this grim reality, Tanjiro resolves to become a “demon slayer” so that he can turn his sister back into a human, and kill the demon that massacred his family.",
+      "popularity": 115.946,
+      "poster_path": "/wrCVHdkBlBWdJUZPvnJWcBRuhSY.jpg",
+      "vote_average": 8.7,
+      "vote_count": 4824
+    },
+    {
+      "backdrop_path": "/2vbE9ajftJ7dkqUAyxDS0WFILx8.jpg",
+      "first_air_date": "2010-09-06",
+      "genre_ids": [
+        16,
+        35
+      ],
+      "id": 31132,
+      "name": "Regular Show",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Regular Show",
+      "overview": "Two bored groundskeepers, Mordecai (a six-foot-tall blue jay) and Rigby (a hyperactive raccoon) are best friends who spend their days trying to entertain themselves by any means necessary, much to the displeasure of their boss. Their everyday pursuits often lead to things spiraling out of control and into the surreal.",
+      "popularity": 243.837,
+      "poster_path": "/mS5SLxMYcKfUxA0utBSR5MOAWWr.jpg",
+      "vote_average": 8.7,
+      "vote_count": 1661
+    },
+    {
+      "backdrop_path": "/iLR6tKvMu67oSK0DIgDutkPBaiy.jpg",
+      "first_air_date": "2018-07-08",
+      "genre_ids": [
+        35,
+        16
+      ],
+      "id": 80539,
+      "name": "Asobi Asobase - workshop of fun -",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "あそびあそばせ",
+      "overview": "During recess, Olivia, a foreign transfer student who doesn't know English, plays a game of \"look-the-other-way\" with Hanako Honda, a loud-mouthed airhead. Their rowdy behavior spurs the ire of Kasumi Nomura, a deadpan loner constantly teased by her older sister for her tendency to lose games. Not willing to compete, Kasumi declines Olivia's offer to join the fun, but eventually gets involved anyway and dispenses her own brand of mischief. Soon, a strange friendship blossoms between the peculiar trio, and they decide to form the \"Pastime Club,\" where they are free to resume their daily hijinks.\n\nWhether it be failing to learn English, trying desperately to become popular, or getting caught by teachers at the wrong time, school life will never be boring when these girls are up to their hilarious antics.",
+      "popularity": 18.764,
+      "poster_path": "/zWE3bnCILcRpfQCsxBkMsgcEjOE.jpg",
+      "vote_average": 8.7,
+      "vote_count": 115
+    },
+    {
+      "backdrop_path": "/nLKYAJCEi6OQVji1HJIxSQ74H9s.jpg",
+      "first_air_date": "2005-02-21",
+      "genre_ids": [
+        16,
+        10759,
+        10765
+      ],
+      "id": 246,
+      "name": "Avatar: The Last Airbender",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Avatar: The Last Airbender",
+      "overview": "In a war-torn world of elemental magic, a young boy reawakens to undertake a dangerous mystic quest to fulfill his destiny as the Avatar, and bring peace to the world.",
+      "popularity": 76.692,
+      "poster_path": "/cHFZA8Tlv03nKTGXhLOYOLtqoSm.jpg",
+      "vote_average": 8.7,
+      "vote_count": 3155
+    },
+    {
+      "backdrop_path": "/cHyY5z4txdVyGtYMvBJhCqCcJso.jpg",
+      "first_air_date": "2020-01-10",
+      "genre_ids": [
+        16,
+        10765,
+        10751,
+        10759,
+        35
+      ],
+      "id": 92685,
+      "name": "The Owl House",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "The Owl House",
+      "overview": "An animated fantasy-comedy series that follows Luz, a self-assured teenage girl who accidentally stumbles upon a portal to a magical world where she befriends a rebellious witch, Eda, and an adorably tiny warrior, King. Despite not having magical abilities, Luz pursues her dream of becoming a witch by serving as Eda's apprentice at the Owl House and ultimately finds a new family in an unlikely setting.",
+      "popularity": 276.467,
+      "poster_path": "/zqjSex7DZn7p4dU7mMktdJ8zQV5.jpg",
+      "vote_average": 8.7,
+      "vote_count": 1268
+    },
+    {
+      "backdrop_path": "/tKh3pc5MEjCIGV7hSJX76qi8aGA.jpg",
+      "first_air_date": "2018-01-13",
+      "genre_ids": [
+        16
+      ],
+      "id": 76121,
+      "name": "DARLING in the FRANXX",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "ダーリン・イン・ザ・フランキス",
+      "overview": "The story is set in the distant future. The land is ruined, and humanity establishes the mobile fort city Plantation. Pilots produced inside Plantation live in Mistilteinn, also know as the \"birdcage.\" Children live there knowing nothing of the outside world or the freedom of the sky. Their lives consist of battling to carry out missions. Their enemies are mysterious giant lifeforms known as Kyouryuu, and the children pilot robots called Franxx to face off against them. For the children, riding the Franxx proves their existence.\n\nA boy named Hiro is called Code:016, and he was once known as a prodigy. However, he has fallen behind, and his existence seems unnecessary. Not piloting a Franxx is the same as ceasing to exist. One day, a mysterious girl known as \"Zero Two\" appears before him. Two horns grow out of her head.",
+      "popularity": 55.023,
+      "poster_path": "/yyUxeNpQoD23XWEdPXLJRGQEtHT.jpg",
+      "vote_average": 8.7,
+      "vote_count": 1660
+    },
+    {
+      "backdrop_path": "/qcpC9lv6VLL4Zw45EveYELyje1w.jpg",
+      "first_air_date": "2020-10-05",
+      "genre_ids": [
+        18,
+        10766,
+        10751
+      ],
+      "id": 111453,
+      "name": "Ghum Hai Kisi Ke Pyaar Mein",
+      "origin_country": [
+        "IN"
+      ],
+      "original_language": "hi",
+      "original_name": "घुम है किसिकी प्यार में",
+      "overview": "Virat sacrifices his love to honour the promise he made to a dying man. Trapped between the past and the present, will he find love beyond the chains of duty?",
+      "popularity": 1185.639,
+      "poster_path": "/uNjnoT3RChs2r7O9pDyx7TNBvIj.jpg",
+      "vote_average": 5.6,
+      "vote_count": 29
+    },
+    {
+      "backdrop_path": "/fMG9ta3iXZDxDInCcrEbcMkkARc.jpg",
+      "first_air_date": "2023-01-16",
+      "genre_ids": [
+        10766,
+        35
+      ],
+      "id": 209117,
+      "name": "Never Give Up",
+      "origin_country": [
+        "BR"
+      ],
+      "original_language": "pt",
+      "original_name": "Vai na Fé",
+      "overview": "Sol is a hardworking woman who has the chance to work as a backing vocalist for a funk singer and return to dancing, as she did in her youth. Torn between family pressure and passion for the stage, she must face the judgment of her church's members and conflicts with her family. The new chance will make her reconnect with her past in many ways, leading her to find her great youth love.",
+      "popularity": 662.405,
+      "poster_path": "/6QNohzb7YUJ6eWZkXAYU8KGIq.jpg",
+      "vote_average": 7.3,
+      "vote_count": 3
+    },
+    {
+      "backdrop_path": "/iHSwvRVsRyxpX7FE7GbviaDvgGZ.jpg",
+      "first_air_date": "2022-11-23",
+      "genre_ids": [
+        10765,
+        9648,
+        35
+      ],
+      "id": 119051,
+      "name": "Wednesday",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Wednesday",
+      "overview": "Wednesday Addams is sent to Nevermore Academy, a bizarre boarding school where she attempts to master her psychic powers, stop a monstrous killing spree of the town citizens, and solve the supernatural mystery that affected her family 25 years ago — all while navigating her new relationships.",
+      "popularity": 1109.853,
+      "poster_path": "/9PFonBhy4cQy7Jz20NpMygczOkv.jpg",
+      "vote_average": 8.6,
+      "vote_count": 6491
+    },
+    {
+      "backdrop_path": "/iN9uULLaSx7h21tcR9io2dnARjw.jpg",
+      "first_air_date": "2013-04-15",
+      "genre_ids": [
+        80,
+        18,
+        10766
+      ],
+      "id": 44953,
+      "name": "The Lord of the Skies",
+      "origin_country": [
+        "MX"
+      ],
+      "original_language": "es",
+      "original_name": "El señor de los cielos",
+      "overview": "Set in the 1990s, these are the life and times of Amado Carrillo Fuentes, a man who became the head of the Juárez cartel. Nicknamed “El Señor de los Cielos” (Lord of the Skies) because of the large fleet of airplanes he used to transport drugs, he was also known for washing more than $200 million through Colombia to finance his huge fleet. He is described as the most powerful drug trafficker of his time.",
+      "popularity": 923.734,
+      "poster_path": "/Ag7VUdnrRz5Qpq3Yn3E5OCvFnu0.jpg",
+      "vote_average": 7.9,
+      "vote_count": 2410
+    },
+    {
+      "backdrop_path": "/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
+      "first_air_date": "2022-11-13",
+      "genre_ids": [
+        80,
+        18
+      ],
+      "id": 153312,
+      "name": "Tulsa King",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Tulsa King",
+      "overview": "Just after he is released from prison after 25 years, New York mafia capo Dwight “The General” Manfredi is unceremoniously exiled by his boss to set up shop in Tulsa, Okla. Realizing that his mob family may not have his best interests in mind, Dwight slowly builds a “crew” from a group of unlikely characters, to help him establish a new criminal empire in a place that to him might as well be another planet.",
+      "popularity": 882.345,
+      "poster_path": "/fwTv3RPRAIy0maOMns5eYRRwnDk.jpg",
+      "vote_average": 8.6,
+      "vote_count": 923
+    },
+    {
+      "backdrop_path": "/mAJ84W6I8I272Da87qplS2Dp9ST.jpg",
+      "first_air_date": "2023-01-23",
+      "genre_ids": [
+        9648,
+        18
+      ],
+      "id": 202250,
+      "name": "Dirty Linen",
+      "origin_country": [
+        "PH"
+      ],
+      "original_language": "tl",
+      "original_name": "Dirty Linen",
+      "overview": "To exact vengeance, a young woman infiltrates the household of an influential family as a housemaid to expose their dirty secrets. However, love will get in the way of her revenge plot.",
+      "popularity": 519.481,
+      "poster_path": "/ujlkQtHAVShWyWTloGU2Vh5Jbo9.jpg",
+      "vote_average": 9,
+      "vote_count": 2
+    },
+    {
+      "backdrop_path": "/zJNEXWx3YyWGQioCbutFd5dcNYS.jpg",
+      "first_air_date": "2022-03-21",
+      "genre_ids": [
+        10766,
+        10759,
+        10751
+      ],
+      "id": 157059,
+      "name": "Poliana Moça",
+      "origin_country": [
+        "BR"
+      ],
+      "original_language": "pt",
+      "original_name": "Poliana Moça",
+      "overview": "",
+      "popularity": 512.983,
+      "poster_path": "/17yQZnnodzS1ZrKcpqHnQV8eQGN.jpg",
+      "vote_average": 6.5,
+      "vote_count": 21
+    },
+    {
+      "backdrop_path": "/mtNlsNtezSzYiwVD6c40zE13kF9.jpg",
+      "first_air_date": "2022-10-03",
+      "genre_ids": [
+        18,
+        35,
+        10765
+      ],
+      "id": 211163,
+      "name": "Maria Clara and Ibarra",
+      "origin_country": [
+        "PH"
+      ],
+      "original_language": "tl",
+      "original_name": "Maria Clara at Ibarra",
+      "overview": "Klay, a Gen Z nursing student who wakes up and finds herself in the world of Jose Rizal’s novels Noli Me Tangere and El Filibusterismo.",
+      "popularity": 464.845,
+      "poster_path": "/tJJKNsoUceHjocfZ81l6sVSC1Bl.jpg",
+      "vote_average": 6.2,
+      "vote_count": 5
+    },
+    {
+      "backdrop_path": "/uDgy6hyPd82kOHh6I95FLtLnj6p.jpg",
+      "first_air_date": "2023-01-15",
+      "genre_ids": [
+        18,
+        10759
+      ],
+      "id": 100088,
+      "name": "The Last of Us",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "The Last of Us",
+      "overview": "Twenty years after modern civilization has been destroyed, Joel, a hardened survivor, is hired to smuggle Ellie, a 14-year-old girl, out of an oppressive quarantine zone. What starts as a small job soon becomes a brutal, heartbreaking journey, as they both must traverse the United States and depend on each other for survival.",
+      "popularity": 5143.946,
+      "poster_path": "/uKvVjHNqB5VmOrdxqAt2F7J78ED.jpg",
+      "vote_average": 8.8,
+      "vote_count": 2023
+    },
+    {
+      "backdrop_path": "/3FLHePl9Y3n4BidLVjIA9qSRDOE.jpg",
+      "first_air_date": "2021-08-03",
+      "genre_ids": [
+        10766
+      ],
+      "id": 130542,
+      "name": "Bhagya Lakshmi",
+      "origin_country": [
+        "IN"
+      ],
+      "original_language": "hi",
+      "original_name": "Bhagya Lakshmi",
+      "overview": "Hailing from a middle-class family, Lakshmi’s life is upended when she realises that her marriage to Rishi Oberoi, an industrialist’s son, is a sham to keep his death at bay.",
+      "popularity": 2067.86,
+      "poster_path": "/7wuKrFvbX7kAIF0ctotARsqayPo.jpg",
+      "vote_average": 5,
+      "vote_count": 27
+    },
+    {
+      "backdrop_path": "/t2rAdgjSh0WYbXzdOB5zTDqzdCI.jpg",
+      "first_air_date": "2022-11-02",
+      "genre_ids": [
+        18
+      ],
+      "id": 213713,
+      "name": "Faltu",
+      "origin_country": [
+        "IN"
+      ],
+      "original_language": "hi",
+      "original_name": "Faltu",
+      "overview": "What's in a name? Amidst the arid landscape of Rajasthan, a young woman with dreamy eyes struggles to prove her worth.",
+      "popularity": 1600.644,
+      "poster_path": "/lgyFuoXs7GvKJN0mNm7z7OMOFuZ.jpg",
+      "vote_average": 3.6,
+      "vote_count": 8
+    },
+    {
+      "backdrop_path": "/3n2TjKw3HrwDqgVgcynvantOfS3.jpg",
+      "first_air_date": "2023-01-04",
+      "genre_ids": [
+        18,
+        10751
+      ],
+      "id": 215103,
+      "name": "Teri Meri Doriyaann",
+      "origin_country": [
+        "IN"
+      ],
+      "original_language": "hi",
+      "original_name": "तेरी मेरी डोरियाँ",
+      "overview": "It’s hate at first sight for Sahiba and Angad! But destined to be together, their lives get intertwined by a marriage alliance, and a love-hate story ensues.",
+      "popularity": 1556.175,
+      "poster_path": "/4BHDmYiuSnNL3nqKIOzLJKYX4AN.jpg",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    {
+      "backdrop_path": "/igmqMTV2Ukf5Id4WwQi7MUAJQAX.jpg",
+      "first_air_date": "2021-10-27",
+      "genre_ids": [
+        18
+      ],
+      "id": 197109,
+      "name": "Yeh Rishta Kya Kehlata Hai",
+      "origin_country": [
+        "IN"
+      ],
+      "original_language": "hi",
+      "original_name": "ये रिश्ता क्या कहलाता है",
+      "overview": "A personal tragedy creates a rift in Abhimanyu and Akshara's marital life. Years later, when destiny offers a second chance, will the duo embrace love?",
+      "popularity": 1357.397,
+      "poster_path": "/6ZfiG4P7jivJV0wgcNMSiS2Owhh.jpg",
+      "vote_average": 4.9,
+      "vote_count": 14
+    },
+    {
+      "backdrop_path": "/caGVr9Il2gj8bN4ow6qsLm60TxM.jpg",
+      "first_air_date": "2005-03-27",
+      "genre_ids": [
+        18
+      ],
+      "id": 1416,
+      "name": "Grey's Anatomy",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Grey's Anatomy",
+      "overview": "Follows the personal and professional lives of a group of doctors at Seattle’s Grey Sloan Memorial Hospital.",
+      "popularity": 979.805,
+      "poster_path": "/daSFbrt8QCXV2hSwB0hqYjbj681.jpg",
+      "vote_average": 8.3,
+      "vote_count": 8943
+    },
+    {
+      "backdrop_path": "/tLL91JBiCCvBF7oKSN6dFR7yd8c.jpg",
+      "first_air_date": "2021-12-20",
+      "genre_ids": [
+        10764
+      ],
+      "id": 153870,
+      "name": "Shark Tank India",
+      "origin_country": [
+        "IN"
+      ],
+      "original_language": "hi",
+      "original_name": "Shark Tank India",
+      "overview": "Aspiring entrepreneurs from India pitch their business models to a panel of investors and persuade them to invest money in their idea.",
+      "popularity": 551.506,
+      "poster_path": "/kDZhUEwqWrRkG6W2Y0WIYTstb0K.jpg",
+      "vote_average": 7.6,
+      "vote_count": 11
+    },
+    {
+      "backdrop_path": "/gFkHcIh7iE5G0oVOgpmY8ONQjhl.jpg",
+      "first_air_date": "2014-10-07",
+      "genre_ids": [
+        18,
+        10765
+      ],
+      "id": 60735,
+      "name": "The Flash",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "The Flash",
+      "overview": "After a particle accelerator causes a freak storm, CSI Investigator Barry Allen is struck by lightning and falls into a coma. Months later he awakens with the power of super speed, granting him the ability to move through Central City like an unseen guardian angel. Though initially excited by his newfound powers, Barry is shocked to discover he is not the only \"meta-human\" who was created in the wake of the accelerator explosion -- and not everyone is using their new powers for good. Barry partners with S.T.A.R. Labs and dedicates his life to protect the innocent. For now, only a few close friends and associates know that Barry is literally the fastest man alive, but it won't be long before the world learns what Barry Allen has become...The Flash.",
+      "popularity": 704.045,
+      "poster_path": "/rg8N7x27Ef6PvlIiioLStf9ZaIO.jpg",
+      "vote_average": 7.8,
+      "vote_count": 10249
+    },
+    {
+      "backdrop_path": "/o8zk3QmHYMSC7UiJgFk81OFF1sc.jpg",
+      "first_air_date": "2022-08-22",
+      "genre_ids": [
+        10766,
+        18
+      ],
+      "id": 204095,
+      "name": "Mar do Sertão",
+      "origin_country": [
+        "BR"
+      ],
+      "original_language": "pt",
+      "original_name": "Mar do Sertão",
+      "overview": "",
+      "popularity": 729.906,
+      "poster_path": "/ixgnqO8xhFMb1zr8RRFsyeZ9CdD.jpg",
+      "vote_average": 4.5,
+      "vote_count": 22
+    },
+    {
+      "backdrop_path": "/1vgdmeW6keP47DQ1tGwfVCdUKqu.jpg",
+      "first_air_date": "2020-10-12",
+      "genre_ids": [
+        35
+      ],
+      "id": 111551,
+      "name": "Haireta mou ton Platano",
+      "origin_country": [
+        "GR"
+      ],
+      "original_language": "el",
+      "original_name": "Χαιρέτα μου τον Πλάτανο",
+      "overview": "The small Greek village of Platanos (Plane Tree) buries the elderly recluse Vangelas and notifies the deceased's estranged children and grandchildren about his death. Vangela's will leaves 3 million euros to his family, but requires them to move to the village and obey certain terms in order to inherit.",
+      "popularity": 425.656,
+      "poster_path": "/vAu6or1W4G1q7wJxQfDmATtnIg.jpg",
+      "vote_average": 5.6,
+      "vote_count": 7
+    },
+    {
+      "backdrop_path": "/fNe1mUuB7fqd4owhgUXkwSNmd9q.jpg",
+      "first_air_date": "2022-10-03",
+      "genre_ids": [
+        18
+      ],
+      "id": 206706,
+      "name": "Soar High!",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "舞いあがれ!",
+      "overview": "Iwakura Mai lives with her parents Kota and Megumi and older brother Haruto. Her father Kota runs a small factory in Higashi Osaka, a district that is known for its craftsmen. Mai is shy and withdrawn. But when she visits her grandmother Shoko who lives on Nagasaki’s Goto Islands which has a rich natural environment, she is entranced by the Baramon kites that catch the wind and soar high in the sky. Wanting to fly high in the sky like these kites, Mai’s longing swells into a dream to become a pilot. Even though she works hard, the path to getting there is tougher than she had imagined. As Mai deepens her ties with the people living in her two hometowns of Higashi Osaka and Goto, her dream eventually takes a new form. She gathers enthusiastic friends to build a small electric plane that can fly to and from the islands. Her dream becomes a wing that carries everyone’s dreams and takes off.",
+      "popularity": 409.292,
+      "poster_path": "/9eeqetibf0GeXEDpC4vYnU324v8.jpg",
+      "vote_average": 5,
+      "vote_count": 2
+    },
+    {
+      "backdrop_path": "/tghyYmdUyLRXwYAQveP7oDOYGqP.jpg",
+      "first_air_date": "1972-09-04",
+      "genre_ids": [
+        10764
+      ],
+      "id": 2051,
+      "name": "The Price Is Right",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "The Price Is Right",
+      "overview": "\"Come on down!\" The Price Is Right features a wide variety of games and contests with the same basic challenge: Guess the prices of everyday (or not-quite-everyday) retail items. ",
+      "popularity": 407.686,
+      "poster_path": "/x2wMeWFWJhEl0jVp9x5P5wmVBpw.jpg",
+      "vote_average": 6.2,
+      "vote_count": 61
+    },
+    {
+      "backdrop_path": "/wdtM9fguzCuDVvpR1BvRw3AEmPG.jpg",
+      "first_air_date": "2022-10-11",
+      "genre_ids": [
+        18,
+        80,
+        9648
+      ],
+      "id": 208249,
+      "name": "Game of Witches",
+      "origin_country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "original_name": "마녀의 게임",
+      "overview": "Yu Kyung is a successful woman who is proficient enough to become an executive director of Chunha Group when she started as a secretary. She recently found out her daughter is alive, so she plans to get her back and take her revenge. Meanwhile, Hye Soo is a strong girl who faces challenges head-on. She has a daughter with Ji Ho, and she would do anything for her. However, she gets tragically betrayed by Ji Ho, the love of her life, over power and money. How will those two mothers end their fierce revenge?",
+      "popularity": 404.575,
+      "poster_path": "/9bTjPzX48VZGalKEBI6tiknUyLI.jpg",
+      "vote_average": 6,
+      "vote_count": 2
+    },
+    {
+      "backdrop_path": "/ymkFaEO0UdYXKIgcWZ23TlYIRD9.jpg",
+      "first_air_date": "2020-11-16",
+      "genre_ids": [
+        18,
+        10766,
+        10751
+      ],
+      "id": 113218,
+      "name": "Imlie",
+      "origin_country": [
+        "IN"
+      ],
+      "original_language": "hi",
+      "original_name": "इमली",
+      "overview": "All Imlie wanted was to create a name for herself in the city. But upon her arrival, she finds herself caught in the middle of Aditya and Malini's love story.",
+      "popularity": 1147.649,
+      "poster_path": "/brajFHvqeitbp7ifevWpFpirS4S.jpg",
+      "vote_average": 5.7,
+      "vote_count": 8
+    },
+    {
+      "backdrop_path": "/ymkFaEO0UdYXKIgcWZ23TlYIRD9.jpg",
+      "first_air_date": "2002-09-09",
+      "genre_ids": [],
+      "id": 20812,
+      "name": "Való Világ",
+      "origin_country": [
+        "HU"
+      ],
+      "original_language": "hu",
+      "original_name": "Való Világ",
+      "overview": "",
+      "popularity": 1104.341,
+      "poster_path": "/kQ6EfC1igZRNSSsnQbLG2mrOLwj.jpg",
+      "vote_average": 2.9,
+      "vote_count": 7
+    },
+    {
+      "backdrop_path": "/1aQ0ETcIXFeC0uGcK7NvTg90zWi.jpg",
+      "first_air_date": "2022-08-22",
+      "genre_ids": [
+        10751,
+        10766
+      ],
+      "id": 209326,
+      "name": "Rajjo",
+      "origin_country": [
+        "IN"
+      ],
+      "original_language": "hi",
+      "original_name": "Rajjo",
+      "overview": "",
+      "popularity": 1130.564,
+      "poster_path": "/rdNwXdMDVDvjOlcXCPOR3m9t43r.jpg",
+      "vote_average": 4.4,
+      "vote_count": 7
+    },
+    {
+      "backdrop_path": "/fGf39i5IwN5lvPUhfAcqjZv4GdL.jpg",
+      "first_air_date": "2023-02-16",
+      "genre_ids": [
+        80
+      ],
+      "id": 219833,
+      "name": "Anti Corruption Storm",
+      "origin_country": [
+        "CN"
+      ],
+      "original_language": "zh",
+      "original_name": "风雨送春归",
+      "overview": "",
+      "popularity": 931.407,
+      "poster_path": "/vwDew97AtBlmD6Mj4kK5BQqm2XK.jpg",
+      "vote_average": 9,
+      "vote_count": 1
+    },
+    {
+      "backdrop_path": "/ykbaElzavtSbsYG5KbG3pEpREtK.jpg",
+      "first_air_date": "2021-01-11",
+      "genre_ids": [
+        10764
+      ],
+      "id": 116416,
+      "name": "Big Brother 7/7",
+      "origin_country": [
+        "CA"
+      ],
+      "original_language": "fr",
+      "original_name": "Big Brother 7/7",
+      "overview": "",
+      "popularity": 584.105,
+      "poster_path": "/iUYrQyv0p4UncFolsROm81VNbcB.jpg",
+      "vote_average": 3.9,
+      "vote_count": 9
+    },
+    {
+      "backdrop_path": "/hpU2cHC9tk90hswCFEpf5AtbqoL.jpg",
+      "first_air_date": "1989-12-17",
+      "genre_ids": [
+        10751,
+        16,
+        35
+      ],
+      "id": 456,
+      "name": "The Simpsons",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "The Simpsons",
+      "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
+      "popularity": 773.48,
+      "poster_path": "/zI3E2a3WYma5w8emI35mgq5Iurx.jpg",
+      "vote_average": 8,
+      "vote_count": 8651
+    },
+    {
+      "backdrop_path": "/dST2cvC7nBMMmLSONfmSo3drIJI.jpg",
+      "first_air_date": "2023-01-08",
+      "genre_ids": [
+        18,
+        10765
+      ],
+      "id": 207863,
+      "name": "Anne Rice's Mayfair Witches",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Anne Rice's Mayfair Witches",
+      "overview": "An intuitive young neurosurgeon discovers that she is the unlikely heir to a family of witches. As she grapples with her newfound powers, she must contend with a sinister presence that has haunted her family for generations.",
+      "popularity": 730.139,
+      "poster_path": "/zKRBfuRWGbs9R2nxhlNP8CfArUh.jpg",
+      "vote_average": 7.3,
+      "vote_count": 63
+    },
+    {
+      "backdrop_path": "/2eIlCirgcvEwmCSYh2wDfz5Sxvz.jpg",
+      "first_air_date": "2013-09-23",
+      "genre_ids": [
+        18,
+        80,
+        9648
+      ],
+      "id": 46952,
+      "name": "The Blacklist",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "The Blacklist",
+      "overview": "Raymond \"Red\" Reddington, one of the FBI's most wanted fugitives, surrenders in person at FBI Headquarters in Washington, D.C. He claims that he and the FBI have the same interests: bringing down dangerous criminals and terrorists. In the last two decades, he's made a list of criminals and terrorists that matter the most but the FBI cannot find because it does not know they exist. Reddington calls this \"The Blacklist\". Reddington will co-operate, but insists that he will speak only to Elizabeth Keen, a rookie FBI profiler.",
+      "popularity": 695.855,
+      "poster_path": "/htJzeRcYI2ewMm4PTrg98UMXShe.jpg",
+      "vote_average": 7.6,
+      "vote_count": 2598
+    },
+    {
+      "backdrop_path": "/3GIt6bMQZ5Lw11oinFksvTKNzoc.jpg",
+      "first_air_date": "2023-01-08",
+      "genre_ids": [
+        18
+      ],
+      "id": 211782,
+      "name": "Al Thaman",
+      "origin_country": [
+        "LB"
+      ],
+      "original_language": "ar",
+      "original_name": "الثمن",
+      "overview": "As a last resort to afford her son’s cancer treatment, a widowed mother asks her manager for money, but the latter poses one condition: she must spend the night with him.",
+      "popularity": 567.297,
+      "poster_path": "/uFEV0Tsns33zKyuc12l4XCBoba7.jpg",
+      "vote_average": 7,
+      "vote_count": 3
+    },
+    {
+      "backdrop_path": "/9I6LgZ5110ycg4pyobJxGTFWFCF.jpg",
+      "first_air_date": "2022-12-18",
+      "genre_ids": [
+        18,
+        37
+      ],
+      "id": 157744,
+      "name": "1923",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "1923",
+      "overview": "Follow a new generation of the Dutton family during the early twentieth century when pandemics, historic drought, the end of Prohibition and the Great Depression all plague the mountain west, and the Duttons who call it home.",
+      "popularity": 561.058,
+      "poster_path": "/zgZRJZvZn5cpsWAB0zMUdad3iZd.jpg",
+      "vote_average": 8.5,
+      "vote_count": 60
+    },
+    {
+      "backdrop_path": "/jbTqU6BJMufoMnPSlO4ThrcXs3Y.jpg",
+      "first_air_date": "1999-01-31",
+      "genre_ids": [
+        16,
+        35
+      ],
+      "id": 1434,
+      "name": "Family Guy",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Family Guy",
+      "overview": "Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Griffin family. Bumbling Peter and long-suffering Lois have three kids. Stewie (a brilliant but sadistic baby bent on killing his mother and taking over the world), Meg (the oldest, and is the most unpopular girl in town) and Chris (the middle kid, he's not very bright but has a passion for movies). The final member of the family is Brian - a talking dog and much more than a pet, he keeps Stewie in check whilst sipping Martinis and sorting through his own life issues.",
+      "popularity": 529.008,
+      "poster_path": "/aLB7psB9N81n5GecHNOudXWW3AI.jpg",
+      "vote_average": 7.3,
+      "vote_count": 3670
+    },
+    {
+      "backdrop_path": "/adiaXh7wX5nkaMi1J8ELs0FRbro.jpg",
+      "first_air_date": "2010-10-03",
+      "genre_ids": [
+        10764
+      ],
+      "id": 37757,
+      "name": "MasterChef Greece",
+      "origin_country": [
+        "GR"
+      ],
+      "original_language": "el",
+      "original_name": "MasterChef Greece",
+      "overview": "MasterChef Greece is a Greek competitive cooking game show. It's an adaptation of the British show MasterChef.",
+      "popularity": 514.394,
+      "poster_path": "/h0MR8xGqddeeJHgqDuW14jW25ov.jpg",
+      "vote_average": 5.3,
+      "vote_count": 4
+    },
+    {
+      "backdrop_path": "/kKakctYxGx5GoVWSvD9iZA7CnxX.jpg",
+      "first_air_date": "2022-09-18",
+      "genre_ids": [
+        18,
+        10766
+      ],
+      "id": 209247,
+      "name": "Heera",
+      "origin_country": [
+        "IQ"
+      ],
+      "original_language": "ar",
+      "original_name": "Heera",
+      "overview": "In a tale of love and revenge, two star-crossed lovers must face a ruthless society and a powerful patriarch hellbent on stopping their marriage.",
+      "popularity": 481.407,
+      "poster_path": "/ys4WHKKYeCSpUGbb6vZWnhJ0SMW.jpg",
+      "vote_average": 9.3,
+      "vote_count": 4
+    },
+    {
+      "backdrop_path": "/hNwopoqRDazw1uPHY2jSNmV2gS2.jpg",
+      "first_air_date": "2005-06-06",
+      "genre_ids": [
+        10763,
+        10764,
+        99
+      ],
+      "id": 203599,
+      "name": "Scoop",
+      "origin_country": [
+        "HK"
+      ],
+      "original_language": "cn",
+      "original_name": "東張西望",
+      "overview": "Scoop is a comprehensive information programme of Television Broadcasts Limited.\n\nThe content of the program is mainly based on entertainment news and personal follow-up of the artists, and will also be interspersed with the latest trends of TVB dramas and artists. Some entertainment news content clips will be rebroadcast on the next day's \"Entertainment Live\".\n\nThis program will be broadcast on Jade Channel from 19:30-20:00 (Hong Kong time) from June 6, 2005, and will be broadcast every day from March 3, 2019, and will be broadcast on myTV (later myTV SUPER) to provide \"Program Review\".",
+      "popularity": 338.475,
+      "poster_path": "/qo6y0XvSBlKM3XCbYVdcR3a6qyQ.jpg",
+      "vote_average": 7.3,
+      "vote_count": 9
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/p926gzarXH3bOjyauALk7rriH15.jpg",
+      "id": 852096,
+      "title": "We Have a Ghost",
+      "original_language": "en",
+      "original_title": "We Have a Ghost",
+      "overview": "After Kevin finds a ghost named Ernest haunting his new home, he becomes an overnight social media sensation. But when Kevin and Ernest go rogue to investigate the mystery of the latter's past, they become targets of the CIA.",
+      "poster_path": "/xo0fgAUoEeVQ7KsKeMWypyglvnf.jpg",
+      "media_type": "movie",
+      "genre_ids": [
+        27,
+        35,
+        12,
+        14,
+        10751
+      ],
+      "popularity": 88.368,
+      "release_date": "2023-02-24",
+      "video": false,
+      "vote_average": 6.97,
+      "vote_count": 50
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/pxJbfnMIQQxCrdeLD0zQnWr6ouL.jpg",
+      "id": 1077280,
+      "title": "Die Hart the Movie",
+      "original_language": "en",
+      "original_title": "Die Hart the Movie",
+      "overview": "Follows a fictionalized version of Kevin Hart, as he tries to become an action movie star. He attends a school run by Ron Wilcox, where he attempts to learn the ropes on how to become one of the industry's most coveted action stars.",
+      "poster_path": "/ff9iMXJjtRdm58nRzM88sNr5CTu.jpg",
+      "media_type": "movie",
+      "genre_ids": [
+        28,
+        35,
+        53
+      ],
+      "popularity": 67.131,
+      "release_date": "2023-02-24",
+      "video": false,
+      "vote_average": 6.4,
+      "vote_count": 21
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/sANUefL2v8VI6fSfK3gWAG3XBt4.jpg",
+      "id": 631842,
+      "title": "Knock at the Cabin",
+      "original_language": "en",
+      "original_title": "Knock at the Cabin",
+      "overview": "While vacationing at a remote cabin, a young girl and her two fathers are taken hostage by four armed strangers who demand that the family make an unthinkable choice to avert the apocalypse. With limited access to the outside world, the family must decide what they believe before all is lost.",
+      "poster_path": "/dm06L9pxDOL9jNSK4Cb6y139rrG.jpg",
+      "media_type": "movie",
+      "genre_ids": [
+        27,
+        9648,
+        53
+      ],
+      "popularity": 1198.11,
+      "release_date": "2023-02-01",
+      "video": false,
+      "vote_average": 6.533,
+      "vote_count": 508
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/aljOqXXt0TVCoOoaAS4SmmjmrGC.jpg",
+      "id": 139099,
+      "name": "The Consultant",
+      "original_language": "en",
+      "original_name": "The Consultant",
+      "overview": "After an unspeakable tragedy at CompWare, a games studio based in downtown Los Angeles, a mysterious consultant, Regus Patoff, blows into town and takes charge.",
+      "poster_path": "/thqmhjLaMf2n0Ebl7oLRjH6VD15.jpg",
+      "media_type": "tv",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "popularity": 91.181,
+      "first_air_date": "2023-02-23",
+      "vote_average": 7.9,
+      "vote_count": 15,
+      "origin_country": [
+        "US"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/cKqk1m6n2lPHZMHNSVYhrnRCiux.jpg",
+      "id": 1063422,
+      "title": "The Strays",
+      "original_language": "en",
+      "original_title": "The Strays",
+      "overview": "A Black woman's meticulously crafted life of privilege starts to unravel when two strangers show up in her quaint suburban town.",
+      "poster_path": "/3OKBFYRVSKkBVJ7WpKogTVQfUqC.jpg",
+      "media_type": "movie",
+      "genre_ids": [
+        53,
+        9648,
+        18
+      ],
+      "popularity": 62.569,
+      "release_date": "2023-02-17",
+      "video": false,
+      "vote_average": 6.127,
+      "vote_count": 75
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hOETTfBMsQDllXnIp1pss7roSRD.jpg",
+      "id": 1014566,
+      "title": "Bruiser",
+      "original_language": "en",
+      "original_title": "Bruiser",
+      "overview": "During summer break, 14-year-old Darious explores the boundaries of his manhood through tumultuous interactions with Malcolm his strict father and a burgeoning mentorship with mysterious drifter Porter.",
+      "poster_path": "/mvOPGMrLhv4ZebTFPeqLXT0IOLm.jpg",
+      "media_type": "movie",
+      "genre_ids": [
+        18
+      ],
+      "popularity": 12.33,
+      "release_date": "2022-12-02",
+      "video": false,
+      "vote_average": 6.2,
+      "vote_count": 6
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/onmoNgDVqDJO75eQ93FFyflbJLl.jpg",
+      "id": 100757,
+      "name": "Outer Banks",
+      "original_language": "en",
+      "original_name": "Outer Banks",
+      "overview": "A tight-knit group of teens unearths a long-buried secret, setting off a chain of illicit events that takes them on an adventure they'll never forget.",
+      "poster_path": "/ovDgO2LPfwdVRfvScAqo9aMiIW.jpg",
+      "media_type": "tv",
+      "genre_ids": [
+        10759,
+        18,
+        9648
+      ],
+      "popularity": 329.56,
+      "first_air_date": "2020-04-15",
+      "vote_average": 8.492,
+      "vote_count": 589,
+      "origin_country": [
+        "US"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/o7ULlSUhfu78wppQiSiRitMvHes.jpg",
+      "id": 128066,
+      "name": "Liaison",
+      "original_language": "fr",
+      "original_name": "Liaison",
+      "overview": "Two agents—and former lovers—must work together to combat international cyberattacks threatening the UK while also confronting the buried secrets of their destructive relationship.",
+      "poster_path": "/jwxlxMJxHW0TElgK6xnIOIwe9rb.jpg",
+      "media_type": "tv",
+      "genre_ids": [
+        80,
+        18
+      ],
+      "popularity": 84.33,
+      "first_air_date": "2023-02-24",
+      "vote_average": 6.0,
+      "vote_count": 5,
+      "origin_country": [
+        "FR",
+        "GB"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ouB7hwclG7QI3INoYJHaZL4vOaa.jpg",
+      "id": 315162,
+      "title": "Puss in Boots: The Last Wish",
+      "original_language": "en",
+      "original_title": "Puss in Boots: The Last Wish",
+      "overview": "Puss in Boots discovers that his passion for adventure has taken its toll: He has burned through eight of his nine lives, leaving him with only one life left. Puss sets out on an epic journey to find the mythical Last Wish and restore his nine lives.",
+      "poster_path": "/kuf6dutpsT0vSVehic3EZIqkOBt.jpg",
+      "media_type": "movie",
+      "genre_ids": [
+        16,
+        28,
+        12,
+        35,
+        10751,
+        14
+      ],
+      "popularity": 2910.358,
+      "release_date": "2022-12-07",
+      "video": false,
+      "vote_average": 8.462,
+      "vote_count": 4026
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/xDMIl84Qo5Tsu62c9DGWhmPI67A.jpg",
+      "id": 505642,
+      "title": "Black Panther: Wakanda Forever",
+      "original_language": "en",
+      "original_title": "Black Panther: Wakanda Forever",
+      "overview": "Queen Ramonda, Shuri, M’Baku, Okoye and the Dora Milaje fight to protect their nation from intervening world powers in the wake of King T’Challa’s death.  As the Wakandans strive to embrace their next chapter, the heroes must band together with the help of War Dog Nakia and Everett Ross and forge a new path for the kingdom of Wakanda.",
+      "poster_path": "/sv1xJUazXeYqALzczSZ3O6nkH75.jpg",
+      "media_type": "movie",
+      "genre_ids": [
+        28,
+        12,
+        878
+      ],
+      "popularity": 3407.581,
+      "release_date": "2022-11-09",
+      "video": false,
+      "vote_average": 7.412,
+      "vote_count": 3542
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jLo6QSkpFBHXSo3bIn9DGikKTBB.jpg",
+      "id": 1024621,
+      "title": "Call Me Chihiro",
+      "original_language": "ja",
+      "original_title": "ちひろさん",
+      "overview": "An unapologetic former sex worker starts working at a bento stand in a small seaside town, bringing comfort to the lonely souls who come her way.",
+      "poster_path": "/bFryUqUKAJIgzIC8OeTzqm8td2.jpg",
+      "media_type": "movie",
+      "genre_ids": [
+        18
+      ],
+      "popularity": 81.154,
+      "release_date": "2023-02-23",
+      "video": false,
+      "vote_average": 6.5,
+      "vote_count": 6
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/e4V77sv2MvSbGyViKTXDsgR3fl4.jpg",
+      "id": 804150,
+      "title": "Cocaine Bear",
+      "original_language": "en",
+      "original_title": "Cocaine Bear",
+      "overview": "An oddball group of cops, criminals, tourists and teens converge in a Georgia forest where a 500-pound black bear goes on a murderous rampage after unintentionally ingesting cocaine.",
+      "poster_path": "/gOnmaxHo0412UVr1QM5Nekv1xPi.jpg",
+      "media_type": "movie",
+      "genre_ids": [
+        28,
+        35,
+        27,
+        80
+      ],
+      "popularity": 219.656,
+      "release_date": "2023-02-22",
+      "video": false,
+      "vote_average": 7.1,
+      "vote_count": 26
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jlbIkIkiNCvfGt8b9Vq5xiX2nvK.jpg",
+      "id": 216811,
+      "name": "Triptych",
+      "original_language": "es",
+      "original_name": "Tríada",
+      "overview": "After learning she was separated at birth from her two identical sisters, Rebecca embarks on a perilous journey to uncover the truth about her origins.",
+      "poster_path": "/cuV5GizaYLjGB3yikqJ5EH2rLus.jpg",
+      "media_type": "tv",
+      "genre_ids": [
+        18,
+        9648
+      ],
+      "popularity": 311.277,
+      "first_air_date": "2023-02-22",
+      "vote_average": 8.609,
+      "vote_count": 23,
+      "origin_country": [
+        "MX"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Urbanist", "Arial", sans-serif,serif;
+    
+}
+body{
+    height: auto;
+    background-color: hsl(241, 84%, 13%);
+    overflow-y: scroll;
+}
+
+.Nav{
+    position: fixed; 
+    top: 95%;
+    left: 50%; 
+    transform: translate(-50%, -50%);
+}

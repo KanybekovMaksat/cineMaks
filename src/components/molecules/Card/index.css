@@ -1,0 +1,21 @@
+.Card{
+    position: relative;
+}
+.Card-rating-box{
+    position: absolute;
+    bottom: 35%;
+    right: 3%;
+
+    max-width: 40px;
+    padding: 10px;
+    border-radius: 8px;
+    background-color: #E21221;
+    color: white;
+    font-weight: 600;
+}
+.Card-title{
+    color:#fff;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 18px;
+}
